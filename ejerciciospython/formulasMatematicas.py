@@ -1,1 +1,4 @@
-print (1+1)asdasd
+print (1+1)
+
+
+print (2+2)asas
